@@ -6,7 +6,7 @@
 - 👩‍💻​ Although I have contributed a lot to myself since I first started writing, I still have a great passion for learning about many topics that I don't know and am curious about. ❤️
 - ​✨​​ As I find time from my work life, I enjoy making game broadcasts on twitch, ​🎥​ drawing pictures, 🎨​ playing games with my dog 🐕​ and making designs. 🌈​ 
 <br/>
-⏲ What we are doing now:
+⏲ What we are doing now: <br/>
 I'm developing desktop automation software at a software company.🤖 I provide project management at Turkcell Future Writers 🧜‍♀‍ and I am also a freelancer. 💆‍♀‍
 
 ### 📩 Connect with me:
