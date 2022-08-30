@@ -1,4 +1,4 @@
-<img align="top" alt="GIF" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47ubrf5vw8zmnelk4zxea5lhs2cc3xpsj2r1ej68k7&rid=giphy.gif&ct=g" width="1000" height="400" />
+<img align="top" alt="GIF" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47ubrf5vw8zmnelk4zxea5lhs2cc3xpsj2r1ej68k7&rid=giphy.gif&ct=g" width="800" height="400" />
 
 ## I'm a Woman ​🎀​, Full Stack Developer 🚀, and Positive People 💫 !
 - 🙌​ Hi, I'm Çağla. I graduated from Çukurova University Computer Programming. I am developing myself in the field of full stack developer, game programming, artificial intelligence and design. I am open to learning and follow new technologies closely.
