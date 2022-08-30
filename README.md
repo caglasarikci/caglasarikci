@@ -25,4 +25,4 @@ I'm developing desktop automation software at a software company.🤖 I provide 
 [gmail]: mailto:caglasarikci@gmail.com
 <br />
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=caglasarikci&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=caglasarikci&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=caglasarikci&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=caglasarikci&redirect=true)
